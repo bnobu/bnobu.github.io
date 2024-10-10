@@ -19,9 +19,9 @@
 			<key>Label</key>
 			<string>Fish</string>
 			<key>PayloadDescription</key>
-			<string>Configures settings for a web clip</string>
+			<string>Whimsical Fish</string>
 			<key>PayloadDisplayName</key>
-			<string>Web Clip</string>
+			<string>Whimsical Fish</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.webClip.managed.BC446E79-7F1E-4861-A75E-AD2E457D0D82</string>
 			<key>PayloadType</key>
