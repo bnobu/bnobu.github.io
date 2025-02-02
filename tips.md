@@ -1,3 +1,5 @@
+[Back to home](https://bnobu.com)
+
 # Internet tips
 
 Use an antivirus.
