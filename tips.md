@@ -2,7 +2,7 @@
 
 Use an antivirus.
 
-Use safe passwords.
+Use safe passwords (at least 8 characters, a number, and a special character).
 
 Be wary of websites that start with "http://" instead of "https://". The S stands for "secure".
 
