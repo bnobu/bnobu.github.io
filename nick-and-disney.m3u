@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="Nick JR" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="",Nick JR
-https://fl5.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1 tvg-id="Nick" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="",Nick
-http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="Disney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="",Disney
-https://tvpass.org/live/DisneyChannelEast/hd
-#EXTINF:-1 tvg-id="Disney Jr" group-title="",Disney Jr
-http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
