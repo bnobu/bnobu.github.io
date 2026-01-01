@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Happy new year!"
+date: 2026-01-01
+---
+
+![Yuyu new year]({{ "/assets/images/new_year1.jpeg" | relative_url }})
+
+Yuyu watching the ball drop
